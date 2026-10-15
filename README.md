@@ -9,3 +9,6 @@ tornadojaimepartida@gmail.com
 #### General Skills
 #### Web
 #### Forensic
+
+#### Crypto
+
